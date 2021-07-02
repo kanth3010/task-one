@@ -1,0 +1,94 @@
+body{
+  background-color: #F9F9F9;
+  padding-left: 80px;
+  padding-top: 20px;
+}
+.head{
+  font-size: 1rem;
+}
+
+.heading{
+  padding:25px;
+  background-color: #185ADB;
+  text-align: center;
+  font-size: 2.0rem;
+  color: white;
+  }
+.headings{
+  font-size: 15px;
+  padding-top: 10px;
+  margin: 0;
+  opacity: 0.5;
+  letter-spacing: 2px;
+  
+}
+.card-body{
+  padding: 0;
+}
+
+.card-text{
+  font-size: 1rem;
+}
+.card-title{
+  margin-bottom: 0;
+}
+
+.card-p{
+  padding-left: 50px;
+  color: #171717;
+}
+
+.para{
+  padding-top: 10px;
+}
+
+.icon{
+  padding-right: 20px;
+}
+.top{
+  padding-top: 50px;
+}
+
+.go-button{
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.basic{
+  padding: 7% 10% ;
+
+  background-color: #ffff;
+  margin:0;
+  margin-right: 50px;
+  padding-bottom: 5px;;
+}
+
+.pricing{
+  padding: 0.6px 50px 80px 10px;
+
+
+}
+.title{
+  font-size: 1.8rem;
+}
+
+.baseprice{
+  background-color: #ffff;
+  margin: 0;
+  margin-right: 50px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 1.5rem;
+  color:  #A7BBC7;
+}
+
+hr {
+  background-color: #ffff;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  margin: 0;
+}
+.card, .card-header, .card-body, .card-footer {
+      border-radius: 25px;
+      }
